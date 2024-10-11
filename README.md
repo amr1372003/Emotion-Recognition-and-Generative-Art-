@@ -48,11 +48,11 @@ pip install opencv-python Flask deepface
 ```
 
 3. Start the server:
-   _ For full functionality with face and emotion recognition, run main_server.py:
+   - For full functionality with face and emotion recognition, run main_server.py:
 ```bash
 python AI/main_server.py
 ```
-   _ For demonstration without real-time recognition, run demo_server.py:
+   - For demonstration without real-time recognition, run demo_server.py:
 ```bash
 python Web/demo_server.py
 ```
