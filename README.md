@@ -64,10 +64,10 @@ python Web/demo_server.py
 ## Usage
 * The system detects emotions like happiness, sadness, and anger.
 * The web page visualizes these emotions using a flow field where:
-  _ Happy is shown in warm reds and oranges.
-  _ Sad is visualized in calming blues.
-  _ Angry is depicted in intense reds.
-  _ Neutral appears in grayscale tones.
+  - Happy is shown in warm reds and oranges.
+  - Sad is visualized in calming blues.
+  - Angry is depicted in intense reds.
+  - Neutral appears in grayscale tones.
 
 ## Notes
 * The working server is located in the AI folder (main_server.py).
