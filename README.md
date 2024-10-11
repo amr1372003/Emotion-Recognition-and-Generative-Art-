@@ -48,12 +48,11 @@ pip install opencv-python Flask deepface
 ```
 
 3. Start the server:
-* For full functionality with face and emotion recognition, run main_server.py:
+   _ For full functionality with face and emotion recognition, run main_server.py:
 ```bash
 python AI/main_server.py
 ```
-
-* For demonstration without real-time recognition, run demo_server.py:
+   _ For demonstration without real-time recognition, run demo_server.py:
 ```bash
 python Web/demo_server.py
 ```
@@ -65,10 +64,10 @@ python Web/demo_server.py
 ## Usage
 * The system detects emotions like happiness, sadness, and anger.
 * The web page visualizes these emotions using a flow field where:
- * Happy is shown in warm reds and oranges.
- * Sad is visualized in calming blues.
- * Angry is depicted in intense reds.
- * Neutral appears in grayscale tones.
+  _ Happy is shown in warm reds and oranges.
+  _ Sad is visualized in calming blues.
+  _ Angry is depicted in intense reds.
+  _ Neutral appears in grayscale tones.
 
 ## Notes
 * The working server is located in the AI folder (main_server.py).
